@@ -10,9 +10,9 @@ const LAYOUT = [
     moved: false,
     static: false,
     value:
-      "![avatar](avatar.jpg)",
+      "![avatar](https://raw.githubusercontent.com/xiaogohub/markdown-resume/main/avatar.jpg)",
     origin:
-      '<section><p><img src="avatar.jpg" alt="avatar"></p>\n</section>'
+      '<section><p><img src="https://raw.githubusercontent.com/xiaogohub/markdown-resume/main/avatar.jpg" alt="avatar"></p>\n</section>'
   },
   {
     w: 19,
